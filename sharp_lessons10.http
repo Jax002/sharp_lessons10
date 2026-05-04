@@ -1,0 +1,6 @@
+@sharp_lessons10_HostAddress = http://localhost:5072
+
+GET {{sharp_lessons10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
